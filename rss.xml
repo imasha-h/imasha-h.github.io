@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>The Chitra Collection</title>
+    <link>https://www.thechitracollection.com</link>
+    <description>Subscribe to our RSS feed to receive the latest updates on contemporary Sri Lankan art, capturing the raw beauty and authenticity of the island's culture and traditions.</description>
+    <language>en-us</language>
+    
+    <!-- Add items here -->
+    <!-- Example:
+    <item>
+      <title>Article Title</title>
+      <link>https://www.yourwebsite.com/article-url</link>
+      <description>Short description of the article</description>
+    </item>
+    -->
+  </channel>
+</rss>
